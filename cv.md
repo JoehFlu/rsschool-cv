@@ -37,14 +37,23 @@ At the moment I want to refresh my knowledge and practical skills to start worki
 ---
 
 ## Code Example
-[Codewars task](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/javascript "Codewars")
+[Codewars Task](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/javascript "Codewars")
 
 ```
 const findShort = (str) => str.split(' ').reduce((acc, rec) => acc.length > rec.length ? rec : acc).length
 ```
+
+## Courses
+* [Full Stack Developer Course (ES6+, Functional programming, React)](https://skillcrucial.com "SkillCrusial") 
+* [React + Redux Professional Development by Juriy Bura](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/javascript "Udemy")
+* [CodeBasics HTML/CSS/JS](https://code-basics.com "CodeBasics")
+* [Basic Adaptive Layout, SASS](https://webref.ru/course "WebReference")
+* [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design "freeCodeCamp")
+* [CS50 Lectures](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5 "YouTube JavaRush")
+
 ## Languages
 * **Russian** - native speaker
 * **English** - (A2)
 
- ## Pet Projects
+## Pet Projects
 [My first landing-page with BEM methodology](https://joehflu.github.io/MoGo-free-layout/ "Link to site")
